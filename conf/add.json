@@ -1,0 +1,12 @@
+{
+    "1": {
+        "publishname": "SysInfo",
+        "timeout": "worker.Immediately",
+        "funcname": "worker.SysInfo"
+    },
+    "2": {
+        "publishname": "MemInfo",
+        "timeout": "worker.Immediately",
+        "funcname": "worker.MemInfo"
+    }
+}
