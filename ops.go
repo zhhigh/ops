@@ -6,6 +6,7 @@
 This module is Gearman API for golang. 
 The protocol was implemented by native way.
 */
+/**/
 
 package	ops 
 
