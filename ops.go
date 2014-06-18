@@ -18,6 +18,7 @@ import (
 	_ "ops/opsworker"
 	_ "ops/conf"
 	_ "ops/logs"
+	_ "ops/nsq"
 )
 
 
